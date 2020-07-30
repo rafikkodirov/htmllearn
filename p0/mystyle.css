@@ -1,7 +1,37 @@
-table {
-    color: red;
+.ddpx    {
+    font-size: 16px;
 }
-h1 {
-    color: green;
-    color: violet;
+
+.dwpx{
+    font-size: 24px;
+    display: inline-block;
+    background-color: aqua;
+    color: red;
+    padding: 0;
+    margin: 0;
+    border: gray 1px solid;
+}
+.dwpx:hover{
+    font-size: 28px;
+    background-color: orange;
+    color: white;
+    border: red 1px solid;
+}
+
+.wpx{
+    font-size: 8px;
+}
+.td{
+    font-size: 24px;
+    display: inline-block;
+    background-color: gray;
+    padding: 0;
+    margin: 0;
+    border: gray 1px solid
+}
+.td:hover{
+    font-size: 24px;
+    display: inline-block;
+    background-color: firebrick;
+    border: gray 1px solid
 }
